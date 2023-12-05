@@ -180,6 +180,8 @@ div .search-form__label:hover {
   color: #fff;
   display: block;
   margin: auto 4px;
+  display: block;
+  margin: auto 4px;
 }
 
 .title {
