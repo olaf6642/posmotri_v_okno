@@ -85,7 +85,7 @@ html {
   margin-bottom: 5px;
 }
 
-div .search-form__label:hover {
+.checkbox-label:hover {
   text-decoration: underline;
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
@@ -188,7 +188,7 @@ div .search-form__label:hover {
   position: relative;
   padding-top: 3px;
   color: #fff;
-  font-family: Oswald;
+  font-family: Oswald, 'Arial Bold', sans-serif;
   font-size: 75px;
   font-style: normal;
   font-weight: 700;
